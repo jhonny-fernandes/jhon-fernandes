@@ -1,9 +1,10 @@
-### Eai guerreiro, eu me chamo Jonas!
+### Eai, eu me chamo Jonas!
 
 <p> Sou engenheiro de software, trabalho com PHP e JavaScript </p>
 
-<h2 align="center"> Minha Stack </h2>
-<div align="center">
+<div align="center"> 
+<h2> Minha Stack </h2>
+<div>
   <img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
@@ -16,6 +17,11 @@
   <img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />
   <img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   <img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+ </div>
+  
+  <h2> Redes Sociais </h2>
+  <a href="https://www.linkedin.com/in/jonas-fernandes-dos-santos-075b34160/" target="_blank"> LinkedIn </a>
+  <a href="https://www.instagram.com/jonasfernandes194/" target="_blank"> Instagram </a>
  </div>
  
  
