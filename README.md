@@ -1,6 +1,4 @@
-### Eai, eu me chamo Jonas!
-
-<p> Sou engenheiro de software, trabalho com PHP e JavaScript </p>
+### Opa eai, eu me chamo Jonas!
 
 <div align="center"> 
 <h2> Minha Stack </h2>
