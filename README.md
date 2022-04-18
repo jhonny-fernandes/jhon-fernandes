@@ -19,9 +19,6 @@
   <img height="30em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
  </div>
   
-  <h2> Redes Sociais </h2>
-  <a href="https://www.linkedin.com/in/jonas-fernandes-dos-santos-075b34160/" target="_blank"> LinkedIn </a>
-  <a href="https://www.instagram.com/jonasfernandes194/" target="_blank"> Instagram </a>
  </div>
  
  
