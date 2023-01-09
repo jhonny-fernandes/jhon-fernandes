@@ -1,5 +1,5 @@
-### Opa eai, eu me chamo Jonas!
-
+### Opa, bem vindo ao meu perfil, eu me chamo Jonas.
+<p> Sou desenvolvedor web </p>
 <div align="center"> 
 <h2> Minha Stack </h2>
 <div>
