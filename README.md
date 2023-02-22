@@ -1,5 +1,5 @@
 ### Opa, bem vindo ao meu perfil, eu me chamo Jonas.
-<p> Sou desenvolvedor web </p>
+<p> Sou um full-stack PHP developer, meu objetivo é facilitar a vida das pessoas com a tecnologia.</p>
 <div align="center"> 
 <h2> Minha Stack </h2>
 <div>
